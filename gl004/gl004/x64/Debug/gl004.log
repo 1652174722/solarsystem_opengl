@@ -1,0 +1,22 @@
+﻿生成启动时间为 2020/7/21 21:55:59。
+     1>项目“F:\桌面文件\openGL编程\gl004\gl004\gl004.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“F:\桌面文件\openGL编程\gl004\x64\Debug\”。
+       InitializeBuildStatus:
+         正在创建“x64\Debug\gl004.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc100.pdb" /Gd /TP /errorReport:prompt GL_Main.cpp
+         GL_Main.cpp
+     1>GL_Main.cpp(243): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdlib.h(843) : 参见“_sleep”的声明
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"x64\Debug\gl004.exe.embed.manifest.res" x64\Debug\gl004_manifest.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\桌面文件\openGL编程\gl004\x64\Debug\gl004.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"x64\Debug\gl004.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\桌面文件\openGL编程\gl004\x64\Debug\gl004.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\桌面文件\openGL编程\gl004\x64\Debug\gl004.lib" /MACHINE:X64 x64\Debug\gl004.exe.embed.manifest.res
+         x64\Debug\GL_Main.obj
+     1>LINK : fatal error LNK1104: 无法打开文件“glut32.lib”
+     1>已完成生成项目“F:\桌面文件\openGL编程\gl004\gl004\gl004.vcxproj”(build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:03.04

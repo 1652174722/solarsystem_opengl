@@ -1,0 +1,21 @@
+﻿生成启动时间为 2020/7/23 19:22:43。
+     1>项目“F:\桌面文件\openGL编程\gl004\gl004\gl004.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Release\gl004.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\桌面文件\openGL编程\gl004\Release\gl004.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\gl004.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\桌面文件\openGL编程\gl004\Release\gl004.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\桌面文件\openGL编程\gl004\Release\gl004.lib" /MACHINE:X86 Release\GL_Main.obj /ENTRY:mainCRTStartup 
+         正在生成代码
+         已完成代码的生成
+         gl004.vcxproj -> F:\桌面文件\openGL编程\gl004\Release\gl004.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"F:\桌面文件\openGL编程\gl004\Release\gl004.exe;#1" /manifest Release\gl004.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\gl004.unsuccessfulbuild”。
+         正在对“Release\gl004.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\桌面文件\openGL编程\gl004\gl004\gl004.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.36
